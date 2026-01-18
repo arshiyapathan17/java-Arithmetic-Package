@@ -16,11 +16,10 @@ Week: 3 – GitHub Weekly Commit Challenge
   - Modulus
 
 ## Project Structure
-Week3-Arithmetic-Package-Java
-│
-├── MainApp.java
-└── mycalculator
-└── Calculator.java
+  ── MainApp.java
+  
+ ── mycalculator
+ └── Calculator.java
 
 ## How to Compile and Run
 D:\mycalculator>javac Calculator.java
